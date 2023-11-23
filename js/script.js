@@ -30,7 +30,7 @@ setInterval(() => {
     plusDivs(1);
 }, 4000);
 
-// Auto Slide
+// Auto Slide img
 
 function validateForm(event) {
     event.preventDefault(); 
